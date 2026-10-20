@@ -12,4 +12,5 @@
 
 ## Day 3 — Routine
 - [ ] Tracker setup
-- [ ] Daily 2-hour study slot fixed
+- [x] Daily study slot = 11:00 PM–1:00 AM
+
